@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "TOWER2"
 include(":app")
- 
