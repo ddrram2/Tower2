@@ -10,7 +10,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.tower2"
-        minSdk = 29
+        minSdk = 21 // Android 7 (API szint 21) //minSdk = 29
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
